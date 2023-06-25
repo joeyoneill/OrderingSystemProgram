@@ -1,0 +1,47 @@
+Ordering System Project - Learning Objective 1
+##############################################
+
+- Minimum 2 classes containing a min 2 methods
+- Main method usage required
+
+- Takeout Order Class
+	ATTRIBUTES
+	- List of Items
+	- Subtotal
+	
+	METHODS
+	- Getters
+	- public static void AddItemToList()
+		- Adds <Item> to list and updates the class's subtotal
+
+- Delivery Order Class
+	- Can inherit from takeout order
+	
+	ATTRIBUTES
+	- List of Items
+	- Subtotal
+	- Delivery Address
+
+	METHODS
+	- Getters + Setters
+	- public static void SetDeliveryOrderAddress()
+	
+
+- Item Class DONE
+	ATTRIBUTES
+	- ItemName
+	- ItemPrice
+
+	METHODS
+	- Getters + Setters
+
+- Inventory Class
+	ATTRIBUTES
+	- List of Items DONE
+
+	METHODS
+	- Save to file
+	- Read from file
+	- Add Item to List DONE
+
+	

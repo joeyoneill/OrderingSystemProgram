@@ -1,0 +1,15 @@
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\OrderingSystemProgram.csproj.AssemblyReference.cache
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\OrderingSystemProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\OrderingSystemProgram.AssemblyInfoInputs.cache
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\OrderingSystemProgram.AssemblyInfo.cs
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\OrderingSystemProgram.csproj.CoreCompileInputs.cache
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\bin\Debug\net7.0\OrderingSystemProgram.exe
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\bin\Debug\net7.0\OrderingSystemProgram.deps.json
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\bin\Debug\net7.0\OrderingSystemProgram.runtimeconfig.json
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\bin\Debug\net7.0\OrderingSystemProgram.dll
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\bin\Debug\net7.0\OrderingSystemProgram.pdb
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\OrderingSystemProgram.dll
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\refint\OrderingSystemProgram.dll
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\OrderingSystemProgram.pdb
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\OrderingSystemProgram.genruntimeconfig.cache
+C:\Users\josoneil\OneDrive - Capgemini\Desktop\onboarding\dotnet-training\C#Fundamentals\OrderingSystemProgram\obj\Debug\net7.0\ref\OrderingSystemProgram.dll
